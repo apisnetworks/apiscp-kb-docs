@@ -7,8 +7,6 @@ date: "2014-10-28"
 
 Passwords may be reset by clicking on "Forgot your password?" from the [control panel login portal](https://cp.apnscp.com/apps/login). An e-mail containing both your username and optional reset request will be sent to the [e-mail address](https://kb.apnscp.com/control-panel/updating-your-contact-information/) on record. Password reset requests are valid for only 2 hours.
 
-In the event this e-mail address is invalid, contact support at help@apnscp.com. Include either a copy of your PayPal receipt or last 4 digits of the credit card on account.
-
 Note: passwords, once entered into the system, can never be recovered but only reset. Once you have established a new password, be sure to keep it in a safe place.
 
 ## Secondary user
