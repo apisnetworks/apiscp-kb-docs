@@ -21,7 +21,7 @@ Add the following lines to your .htaccess file in the document root of the forwa
 
 ### Direct Forward, Path Capture
 
-`RewriteEngine On` `RewriteRule ^(.*)$ http://DESTINATIONSITE/$1 [R=301, L]`
+`RewriteEngine On` `RewriteRule ^(.*)$ http://DESTINATIONSITE/$1 [R=301,L]`
 
 ### Proxied Forward, Path Capture
 
